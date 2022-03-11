@@ -21,7 +21,7 @@ boxDrawingRecipes.py module.
 WIDTH = 600                 # Glyph width.
 HEIGHT = 1400               # Height for line elements, including overlap.
 MEDIAN = 300                # Median line.
-STROKE = 160                # General stroke weight.
+STROKE = 29                # General stroke weight.
 FAT = 2                     # Multiplication factor for drawing 'fat' strokes.
 RADIUS = WIDTH / 2          # Radius for arc elements.
 BLOCK_HEIGHT = 1400         # Height for block elements.
